@@ -1,0 +1,7 @@
+opencv-python
+pillow
+pywin32
+pynput
+requests
+numpy
+pydirectinput
